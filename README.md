@@ -5,6 +5,8 @@ In this challenge, I used my knowledge of Python and unsupervised learning to pr
 
 The first five rows of the scaled DataFrame appeared as follows:
 
+![](https://github.com/Houdini24/CryptoClustering/blob/main/Resources/Sample%20Data.png)
+
 ![](https://github.com/Houdini24/CryptoClustering/blob/main/Resources/DataFrame%20Plot.png)
 
 ## Analysis
