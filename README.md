@@ -16,13 +16,12 @@ The first five rows of the scaled DataFrame appeared as follows:
 
    ![](https://github.com/Houdini24/CryptoClustering/blob/main/Resources/Elbow%20Curve%20Original%20Data.png)
    
-3. What is the total explained variance of the three principal components?
+2. What is the total explained variance of the three principal components?
 
-4. What is the best value for k when using the PCA data?
-   * I believe that 4 is the best value for the PCA data based on the elbow curve in the graph below.
+3. What is the best value for k when using the PCA data?
+   * I believe that 4 is the best value for the PCA data based on the elbow curve in the graph below. This did not differ from the elbow curve in the original model.
      
    ![](https://github.com/Houdini24/CryptoClustering/blob/main/Resources/PCA%20Data%20Elbow%20Curve.png)
-   
-5. Does it differ from the best k value found using the original data?
 
-6. What is the impact of using fewer features to cluster the data using K-Means?
+4. What is the impact of using fewer features to cluster the data using K-Means?
+   * Using less features achieved a similar performance to the original model.
