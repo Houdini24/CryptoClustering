@@ -26,3 +26,14 @@ The first five rows of the scaled DataFrame appeared as follows:
 
 5. What is the impact of using fewer features to cluster the data using K-Means?
    * Using less features achieved a similar performance to the original model.
+  
+
+### Acknowledgements
+I used the following resources to help complete this project:
+
+* AskBCS Learning Assistants
+* GitHub
+* UCB Coding Bootcamp GitLab
+* ChatGPT
+* Bootcamp Tutor David Chao
+* W3 Schools
