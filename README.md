@@ -3,7 +3,7 @@ Module 19 Challenge
 ## Overview
 In this challenge, I used my knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes. I used the StandardScaler module from scikit-learn to normalize the data from a CSV file.
 
-The first five rows of the scaled DataFrame should appear as follows:
+The first five rows of the scaled DataFrame appeared as follows:
 
 ![](https://github.com/Houdini24/CryptoClustering/blob/main/Resources/DataFrame%20Plot.png)
 
